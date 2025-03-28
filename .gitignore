@@ -1,0 +1,6 @@
+venv/
+node_modules/
+__pycache__/
+*.log
+*.sqlite3
+playwright/.cache/
